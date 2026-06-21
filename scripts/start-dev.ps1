@@ -10,4 +10,5 @@ Start-Process powershell -ArgumentList @(
 )
 
 Write-Host "Starting Expo..." -ForegroundColor Cyan
+Write-Host "Tip: if phone shows 'Failed to download remote update', use: npm run start:tunnel" -ForegroundColor DarkGray
 npx expo start
