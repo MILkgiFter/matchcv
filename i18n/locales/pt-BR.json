@@ -1,0 +1,183 @@
+{
+  "common": {
+    "skip": "Pular",
+    "seeAll": "Ver tudo",
+    "unlock": "Desbloquear",
+    "error": "Erro",
+    "ok": "OK",
+    "premium": "Premium",
+    "version": "Versão {{version}}",
+    "matchPercent": "{{percent}}% de match",
+    "moreLocked": "+{{count}} métricas bloqueadas",
+    "keywordsHidden": "+{{count}} palavras-chave ocultas"
+  },
+  "tabs": {
+    "home": "Início",
+    "jobs": "Vagas",
+    "chat": "AI Chat",
+    "profile": "Perfil"
+  },
+  "home": {
+    "tagline": "Combine seu currículo com qualquer vaga",
+    "boostScore": "Suba de {{score}}% para 90%+",
+    "unlockTools": "Desbloqueie ferramentas AI ilimitadas",
+    "bannerSubtitle": "Scans ilimitados, palavras-chave, cartas & MatchCV Coach — a partir de $2,50/mês",
+    "resumeScore": "Score do Currículo",
+    "noResumeTitle": "Nenhum currículo analisado",
+    "noResumeMessage": "Envie seu currículo em PDF ou DOCX. A AI avalia compatibilidade com ATS.",
+    "uploadResume": "Enviar Currículo",
+    "quickActions": "Ações Rápidas",
+    "matchJob": "Match de Vaga",
+    "coverLetter": "Carta de Apresentação",
+    "matchedJobs": "Vagas com Match"
+  },
+  "profile": {
+    "yourProfile": "Seu Perfil",
+    "premiumMember": "Membro Premium",
+    "freePlan": "Plano gratuito",
+    "upgradeTitle": "Upgrade para Premium",
+    "upgradeSub": "A partir de $2,50/mês · Cancele quando quiser",
+    "freeUsage": "Uso do plano gratuito",
+    "scans": "Scans de currículo: {{used}}/{{limit}}",
+    "matches": "Matches de vaga: {{used}}/{{limit}}",
+    "letters": "Cartas: {{used}}/{{limit}}",
+    "chatToday": "Chat hoje: {{used}}/{{limit}}",
+    "upgradeUnlimited": "Upgrade ilimitado →",
+    "jobsMatched": "Vagas com Match",
+    "coverLetters": "Cartas",
+    "myResume": "Meu Currículo",
+    "analysisResult": "Resultado da Análise",
+    "localAi": "Modelo AI Local",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Uso",
+    "language": "Idioma",
+    "languageSub": "App e respostas da AI"
+  },
+  "languages": {
+    "en": "English",
+    "pt-BR": "Português (Brasil)",
+    "es": "Español",
+    "pl": "Polski",
+    "de": "Deutsch",
+    "fr": "Français",
+    "tr": "Türkçe"
+  },
+  "onboarding": {
+    "premiumLink": "Ver planos Premium — a partir de $2,50/mês",
+    "steps": {
+      "0": { "title": "Envie seu currículo", "subtitle": "Importe em PDF, DOCX ou TXT para começar." },
+      "1": { "title": "A AI analisa seu currículo", "subtitle": "Verificamos ATS, palavras-chave e formatação para dar um score." },
+      "2": { "title": "Match com a vaga dos sonhos", "subtitle": "Cole a descrição da vaga e veja o quanto seu currículo combina." },
+      "3": { "title": "Gere carta de apresentação", "subtitle": "Cartas personalizadas para cada candidatura." },
+      "4": { "title": "Conquiste a vaga", "subtitle": "Consiga entrevistas mais rápido com ferramentas de carreira com AI." }
+    }
+  },
+  "premium": {
+    "title": "Premium",
+    "activeTitle": "Você é Premium!",
+    "activeSub": "Todos os recursos desbloqueados. Boa sorte na busca!",
+    "backToApp": "Voltar ao app",
+    "socialProof": "Confiado por 12.000+ candidatos",
+    "limitedBadge": "Plano gratuito limitado — faça upgrade",
+    "scoreNow": "Seu score agora",
+    "withPremium": "Com Premium",
+    "welcome": "Bem-vindo ao Premium!",
+    "welcomeSub": "Todos os recursos desbloqueados.",
+    "purchaseFailed": "Compra falhou",
+    "restored": "Restaurado",
+    "restoredSub": "Sua assinatura Premium está ativa.",
+    "noPurchases": "Sem compras",
+    "noPurchasesSub": "Nenhuma assinatura ativa encontrada.",
+    "restoreFailed": "Restauração falhou",
+    "legal": "A assinatura renova automaticamente, salvo cancelamento 24h antes. Gerencie na App Store / Google Play.",
+    "terms": "Termos",
+    "privacy": "Privacidade",
+    "restore": "Restaurar",
+    "mostUsers": "Mais usuários escolhem Anual · ",
+    "guarantee": "Garantia de 7 dias",
+    "processing": "Processando...",
+    "features": {
+      "scans": "Scans ilimitados & reescrita com AI",
+      "match": "Match completo + todas palavras-chave",
+      "letters": "Cartas ilimitadas (3 tons)",
+      "coach": "MatchCV Coach ilimitado",
+      "priority": "AI prioritária — respostas mais rápidas",
+      "cancel": "Cancele quando quiser · Sem anúncios"
+    },
+    "plans": {
+      "bestValue": "MELHOR VALOR",
+      "save50": "Economize 50%",
+      "perMonth": "$2,50/mês",
+      "monthlyPeriod": "/ mês",
+      "yearlyPeriod": "/ ano",
+      "lifetimePeriod": "Pagamento único",
+      "lifetimeSavings": "Pague uma vez, use para sempre"
+    },
+    "sources": {
+      "analysis": { "title": "Scans ilimitados de currículo", "subtitle": "Você usou seu scan gratuito. Premium = feedback AI ilimitado e score 90%+ mais rápido.", "cta": "Desbloquear scans — a partir de $2,50/mês" },
+      "match": { "title": "Match com qualquer vaga", "subtitle": "Você usou seu match gratuito. Premium revela todas as palavras-chave que recrutadores buscam.", "cta": "Desbloquear match — a partir de $2,50/mês" },
+      "coverLetter": { "title": "Cartas ilimitadas", "subtitle": "Destaque-se com cartas Formal, Amigável e Confiante — ilimitadas.", "cta": "Desbloquear cartas — a partir de $2,50/mês" },
+      "chat": { "title": "MatchCV Coach ilimitado", "subtitle": "Limite diário atingido. Premium = preparação para entrevistas, salário e currículo ilimitados.", "cta": "Desbloquear Coach — a partir de $2,50/mês" },
+      "improve": { "title": "Suba seu currículo para 90%+", "subtitle": "A AI Premium reescreve seções fracas e adiciona palavras-chave ATS.", "cta": "Melhorar currículo com Premium" },
+      "keywords": { "title": "Veja todas palavras-chave faltantes", "subtitle": "Recrutadores filtram por keywords. Premium revela cada lacuna antes de candidatar.", "cta": "Desbloquear keywords" },
+      "metrics": { "title": "Análise completa do currículo", "subtitle": "Veja as 5 métricas ATS e correções passo a passo.", "cta": "Desbloquear análise completa" },
+      "home": { "title": "Conquiste a vaga 3× mais rápido", "subtitle": "Premium: scans ilimitados, keywords, cartas & coach — a partir de $2,50/mês.", "cta": "Ir Premium — Economize 50%" },
+      "profile": { "title": "Upgrade para Premium", "subtitle": "Ferramentas AI ilimitadas para toda sua busca. Cancele quando quiser.", "cta": "Ver planos — a partir de $2,50/mês" }
+    }
+  },
+  "subscription": {
+    "lifetimeCta": "Lifetime — {{price}}",
+    "annualCta": "Premium — {{price}}",
+    "monthlyCta": "Premium — {{price}}{{period}}"
+  },
+  "chat": {
+    "title": "MatchCV Coach",
+    "onDevice": "📱 AI no dispositivo",
+    "premiumUnlimited": "☁️ Premium · Ilimitado",
+    "messagesToday": "☁️ {{remaining}}/{{limit}} mensagens hoje",
+    "welcome": "Pergunte sobre carreira aqui. Baixe SmolLM2 (~256 MB) para chat offline ou use AI na nuvem.",
+    "suggestions": "Sugestões",
+    "prompt1": "Melhore meu resumo profissional",
+    "prompt2": "Prepare-me para entrevista",
+    "prompt3": "Quais skills devo adicionar?",
+    "placeholder": "Digite uma mensagem...",
+    "aiUnavailable": "AI indisponível",
+    "localModel": "Modelo local"
+  },
+  "analysis": {
+    "title": "Resultado da Análise",
+    "noAnalysis": "Sem análise ainda",
+    "noAnalysisMessage": "Envie e analise seu currículo primeiro.",
+    "overallScore": "Score Geral",
+    "premiumHint": "Usuários Premium geralmente atingem 90%+ após reescrita AI",
+    "breakdown": "Detalhamento",
+    "improveResume": "Melhorar Currículo",
+    "improvePremium": "Melhorar com Premium",
+    "comingSoon": "Em breve",
+    "comingSoonSub": "Reescrita AI chega na próxima atualização.",
+    "footerHint": "Reescrita AI · Keywords ATS · Scans ilimitados"
+  },
+  "matchJob": {
+    "title": "Match de Vaga",
+    "jobDescription": "Descrição da Vaga",
+    "placeholder": "Cole a descrição completa da vaga aqui...",
+    "analyze": "Analisar Match",
+    "tooShort": "Muito curto",
+    "tooShortSub": "Cole uma descrição completa (mínimo 20 caracteres).",
+    "aiError": "Erro de AI",
+    "freeMatchLeft": "{{count}} match gratuito restante",
+    "freeMatchUsed": "Match gratuito usado — upgrade para ilimitado",
+    "missingKeywords": "Palavras-chave Faltantes",
+    "generateLetter": "Gerar Carta"
+  },
+  "upload": {
+    "title": "Enviar Currículo",
+    "noFile": "Sem arquivo",
+    "noFileSub": "Selecione um currículo primeiro.",
+    "dropHint": "Toque para selecionar PDF ou DOCX",
+    "dropSub": "Máx 10 MB · PDF, DOCX, TXT",
+    "analyze": "Analisar Currículo",
+    "freeScanLeft": "{{count}} scan gratuito restante",
+    "freeScanUsed": "Scan gratuito usado — upgrade para ilimitado"
+  }
+}

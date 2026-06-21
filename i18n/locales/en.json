@@ -1,0 +1,234 @@
+{
+  "common": {
+    "skip": "Skip",
+    "seeAll": "See all",
+    "unlock": "Unlock",
+    "error": "Error",
+    "ok": "OK",
+    "premium": "Premium",
+    "version": "Version {{version}}",
+    "matchPercent": "{{percent}}% match",
+    "moreLocked": "+{{count}} more metrics locked",
+    "keywordsHidden": "+{{count}} keywords hidden"
+  },
+  "tabs": {
+    "home": "Home",
+    "jobs": "Jobs",
+    "chat": "AI Chat",
+    "profile": "Profile"
+  },
+  "home": {
+    "tagline": "Match your resume to any job",
+    "boostScore": "Boost score from {{score}}% to 90%+",
+    "unlockTools": "Unlock unlimited AI tools",
+    "bannerSubtitle": "Unlimited scans, full keywords, cover letters & MatchCV Coach — from $2.50/mo",
+    "resumeScore": "Resume Score",
+    "noResumeTitle": "No resume analyzed yet",
+    "noResumeMessage": "Upload your resume in PDF or DOCX format. AI will score it for ATS compatibility.",
+    "uploadResume": "Upload Resume",
+    "quickActions": "Quick Actions",
+    "matchJob": "Match Job",
+    "coverLetter": "Cover Letter",
+    "matchedJobs": "Matched Jobs"
+  },
+  "profile": {
+    "yourProfile": "Your Profile",
+    "premiumMember": "Premium member",
+    "freePlan": "Free plan",
+    "upgradeTitle": "Upgrade to Premium",
+    "upgradeSub": "From $2.50/mo · Cancel anytime",
+    "freeUsage": "Free plan usage",
+    "scans": "Resume scans: {{used}}/{{limit}}",
+    "matches": "Job matches: {{used}}/{{limit}}",
+    "letters": "Cover letters: {{used}}/{{limit}}",
+    "chatToday": "Chat today: {{used}}/{{limit}}",
+    "upgradeUnlimited": "Upgrade for unlimited →",
+    "jobsMatched": "Jobs Matched",
+    "coverLetters": "Cover Letters",
+    "myResume": "My Resume",
+    "analysisResult": "Analysis Result",
+    "localAi": "Local AI Model",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "language": "Language",
+    "languageSub": "App & AI responses"
+  },
+  "languages": {
+    "en": "English",
+    "pt-BR": "Português (Brasil)",
+    "es": "Español",
+    "pl": "Polski",
+    "de": "Deutsch",
+    "fr": "Français",
+    "tr": "Türkçe"
+  },
+  "onboarding": {
+    "premiumLink": "See Premium plans — from $2.50/mo",
+    "steps": {
+      "0": {
+        "title": "Upload your resume",
+        "subtitle": "Import your resume in PDF, DOCX, or TXT to get started."
+      },
+      "1": {
+        "title": "AI analyzes your resume",
+        "subtitle": "Our AI checks ATS compatibility, keywords, and formatting to score your resume."
+      },
+      "2": {
+        "title": "Match your dream job",
+        "subtitle": "Paste a job description and see how well your resume matches the role."
+      },
+      "3": {
+        "title": "Generate cover letter",
+        "subtitle": "Create personalized cover letters tailored to each job application."
+      },
+      "4": {
+        "title": "Get your dream job",
+        "subtitle": "Land interviews faster with AI-powered career tools at your fingertips."
+      }
+    }
+  },
+  "premium": {
+    "title": "Premium",
+    "activeTitle": "You're Premium!",
+    "activeSub": "All features unlocked. Good luck with your job search.",
+    "backToApp": "Back to app",
+    "socialProof": "Trusted by 12,000+ job seekers",
+    "limitedBadge": "Limited free plan — upgrade to continue",
+    "scoreNow": "Your score now",
+    "withPremium": "With Premium",
+    "welcome": "Welcome to Premium!",
+    "welcomeSub": "All features are now unlocked.",
+    "purchaseFailed": "Purchase failed",
+    "restored": "Restored",
+    "restoredSub": "Your premium subscription is active.",
+    "noPurchases": "No purchases",
+    "noPurchasesSub": "No active subscription found.",
+    "restoreFailed": "Restore failed",
+    "legal": "Subscription auto-renews unless cancelled 24h before period end. Manage in App Store / Google Play settings.",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "restore": "Restore",
+    "mostUsers": "Most users choose Annual · ",
+    "guarantee": "7-day money-back guarantee",
+    "processing": "Processing...",
+    "features": {
+      "scans": "Unlimited resume scans & AI rewrites",
+      "match": "Full job match + all missing keywords",
+      "letters": "Unlimited cover letters (3 tones)",
+      "coach": "Unlimited MatchCV Coach",
+      "priority": "Priority AI — faster responses",
+      "cancel": "Cancel anytime · No ads"
+    },
+    "plans": {
+      "bestValue": "BEST VALUE",
+      "save50": "Save 50%",
+      "perMonth": "$2.50/mo",
+      "monthlyPeriod": "/ month",
+      "yearlyPeriod": "/ year",
+      "lifetimePeriod": "One-time",
+      "lifetimeSavings": "Pay once, keep forever"
+    },
+    "sources": {
+      "analysis": {
+        "title": "Unlock unlimited resume scans",
+        "subtitle": "You used your free scan. Premium users get unlimited AI feedback and score 90%+ faster.",
+        "cta": "Unlock unlimited scans — from $2.50/mo"
+      },
+      "match": {
+        "title": "Match every job you want",
+        "subtitle": "You used your free job match. Premium reveals every missing keyword recruiters search for.",
+        "cta": "Unlock job matching — from $2.50/mo"
+      },
+      "coverLetter": {
+        "title": "Generate unlimited cover letters",
+        "subtitle": "Stand out with AI letters in Formal, Friendly & Confident tones — unlimited.",
+        "cta": "Unlock cover letters — from $2.50/mo"
+      },
+      "chat": {
+        "title": "Unlimited MatchCV Coach",
+        "subtitle": "Daily limit reached. Premium gives unlimited interview prep, salary tips & resume fixes.",
+        "cta": "Unlock MatchCV Coach — from $2.50/mo"
+      },
+      "improve": {
+        "title": "Boost your resume to 90%+",
+        "subtitle": "Premium AI rewrites weak sections and adds missing ATS keywords automatically.",
+        "cta": "Improve my resume with Premium"
+      },
+      "keywords": {
+        "title": "See all missing keywords",
+        "subtitle": "Recruiters filter by keywords. Premium reveals every gap so you can fix them before applying.",
+        "cta": "Unlock all keywords"
+      },
+      "metrics": {
+        "title": "Full resume breakdown",
+        "subtitle": "See all 5 ATS metrics and step-by-step fixes for each weak area.",
+        "cta": "Unlock full analysis"
+      },
+      "home": {
+        "title": "Land your dream job 3× faster",
+        "subtitle": "Premium: unlimited scans, full keyword lists, cover letters & AI coach — from $2.50/mo.",
+        "cta": "Go Premium — Save 50%"
+      },
+      "profile": {
+        "title": "Upgrade to Premium",
+        "subtitle": "Unlimited AI tools for your entire job search. Cancel anytime.",
+        "cta": "View plans — from $2.50/mo"
+      }
+    }
+  },
+  "subscription": {
+    "lifetimeCta": "Get Lifetime — {{price}}",
+    "annualCta": "Start Premium — {{price}}",
+    "monthlyCta": "Start Premium — {{price}}{{period}}"
+  },
+  "chat": {
+    "title": "MatchCV Coach",
+    "onDevice": "📱 On-device AI",
+    "premiumUnlimited": "☁️ Premium · Unlimited",
+    "messagesToday": "☁️ {{remaining}}/{{limit}} messages today",
+    "welcome": "Ask career questions here. Download SmolLM2 (~256 MB) for offline chat, or use cloud AI via backend.",
+    "suggestions": "Suggested prompts",
+    "prompt1": "Improve my resume summary",
+    "prompt2": "Prepare me for an interview",
+    "prompt3": "What skills should I add?",
+    "placeholder": "Type a message...",
+    "aiUnavailable": "AI unavailable",
+    "localModel": "Local model"
+  },
+  "analysis": {
+    "title": "Analysis Result",
+    "noAnalysis": "No analysis yet",
+    "noAnalysisMessage": "Upload and analyze your resume first.",
+    "overallScore": "Overall Score",
+    "premiumHint": "Premium users typically reach 90%+ after AI rewrite",
+    "breakdown": "Detailed Breakdown",
+    "improveResume": "Improve Resume",
+    "improvePremium": "Improve Resume with Premium",
+    "comingSoon": "Coming soon",
+    "comingSoonSub": "AI resume rewrite launches in the next update.",
+    "footerHint": "AI rewrite · ATS keywords · Unlimited rescans"
+  },
+  "matchJob": {
+    "title": "Match Job",
+    "jobDescription": "Job Description",
+    "placeholder": "Paste the full job description here...",
+    "analyze": "Analyze Match",
+    "tooShort": "Too short",
+    "tooShortSub": "Paste a full job description (at least 20 characters).",
+    "aiError": "AI Error",
+    "freeMatchLeft": "{{count}} free match left",
+    "freeMatchUsed": "Free match used — upgrade for unlimited",
+    "missingKeywords": "Missing Keywords",
+    "generateLetter": "Generate Cover Letter"
+  },
+  "upload": {
+    "title": "Upload Resume",
+    "noFile": "No file",
+    "noFileSub": "Please select a resume file first.",
+    "dropHint": "Tap to select PDF or DOCX",
+    "dropSub": "Max 10 MB · PDF, DOCX, TXT",
+    "analyze": "Analyze Resume",
+    "freeScanLeft": "{{count}} free scan left",
+    "freeScanUsed": "Free scan used — upgrade for unlimited"
+  }
+}

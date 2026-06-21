@@ -1,0 +1,183 @@
+{
+  "common": {
+    "skip": "Pomiń",
+    "seeAll": "Zobacz wszystko",
+    "unlock": "Odblokuj",
+    "error": "Błąd",
+    "ok": "OK",
+    "premium": "Premium",
+    "version": "Wersja {{version}}",
+    "matchPercent": "{{percent}}% dopasowania",
+    "moreLocked": "+{{count}} metryk zablokowanych",
+    "keywordsHidden": "+{{count}} ukrytych słów kluczowych"
+  },
+  "tabs": {
+    "home": "Start",
+    "jobs": "Oferty",
+    "chat": "AI Chat",
+    "profile": "Profil"
+  },
+  "home": {
+    "tagline": "Dopasuj CV do każdej oferty",
+    "boostScore": "Podnieś wynik z {{score}}% do 90%+",
+    "unlockTools": "Odblokuj nielimitowane narzędzia AI",
+    "bannerSubtitle": "Nielimitowane skany, słowa kluczowe, listy i MatchCV Coach — od $2,50/mies.",
+    "resumeScore": "Wynik CV",
+    "noResumeTitle": "Brak analizy CV",
+    "noResumeMessage": "Prześlij CV w PDF lub DOCX. AI oceni zgodność z ATS.",
+    "uploadResume": "Prześlij CV",
+    "quickActions": "Szybkie akcje",
+    "matchJob": "Dopasuj ofertę",
+    "coverLetter": "List motywacyjny",
+    "matchedJobs": "Dopasowane oferty"
+  },
+  "profile": {
+    "yourProfile": "Twój profil",
+    "premiumMember": "Członek Premium",
+    "freePlan": "Plan darmowy",
+    "upgradeTitle": "Przejdź na Premium",
+    "upgradeSub": "Od $2,50/mies. · Anuluj w dowolnym momencie",
+    "freeUsage": "Wykorzystanie planu darmowego",
+    "scans": "Skany CV: {{used}}/{{limit}}",
+    "matches": "Dopasowania: {{used}}/{{limit}}",
+    "letters": "Listy: {{used}}/{{limit}}",
+    "chatToday": "Chat dziś: {{used}}/{{limit}}",
+    "upgradeUnlimited": "Upgrade na nielimitowany →",
+    "jobsMatched": "Dopasowane oferty",
+    "coverLetters": "Listy",
+    "myResume": "Moje CV",
+    "analysisResult": "Wynik analizy",
+    "localAi": "Lokalny model AI",
+    "privacy": "Polityka prywatności",
+    "terms": "Regulamin",
+    "language": "Język",
+    "languageSub": "Aplikacja i odpowiedzi AI"
+  },
+  "languages": {
+    "en": "English",
+    "pt-BR": "Português (Brasil)",
+    "es": "Español",
+    "pl": "Polski",
+    "de": "Deutsch",
+    "fr": "Français",
+    "tr": "Türkçe"
+  },
+  "onboarding": {
+    "premiumLink": "Zobacz plany Premium — od $2,50/mies.",
+    "steps": {
+      "0": { "title": "Prześlij CV", "subtitle": "Importuj PDF, DOCX lub TXT, aby zacząć." },
+      "1": { "title": "AI analizuje Twoje CV", "subtitle": "Sprawdzamy ATS, słowa kluczowe i formatowanie." },
+      "2": { "title": "Dopasuj wymarzoną pracę", "subtitle": "Wklej opis stanowiska i zobacz dopasowanie CV." },
+      "3": { "title": "Generuj list motywacyjny", "subtitle": "Spersonalizowane listy do każdej aplikacji." },
+      "4": { "title": "Zdobądź wymarzoną pracę", "subtitle": "Szybciej do rozmów kwalifikacyjnych z narzędziami AI." }
+    }
+  },
+  "premium": {
+    "title": "Premium",
+    "activeTitle": "Masz Premium!",
+    "activeSub": "Wszystko odblokowane. Powodzenia w poszukiwaniach!",
+    "backToApp": "Wróć do aplikacji",
+    "socialProof": "Zaufało nam 12 000+ osób",
+    "limitedBadge": "Limit darmowy — przejdź na Premium",
+    "scoreNow": "Twój wynik teraz",
+    "withPremium": "Z Premium",
+    "welcome": "Witaj w Premium!",
+    "welcomeSub": "Wszystkie funkcje odblokowane.",
+    "purchaseFailed": "Zakup nieudany",
+    "restored": "Przywrócono",
+    "restoredSub": "Subskrypcja Premium jest aktywna.",
+    "noPurchases": "Brak zakupów",
+    "noPurchasesSub": "Nie znaleziono aktywnej subskrypcji.",
+    "restoreFailed": "Przywracanie nieudane",
+    "legal": "Subskrypcja odnawia się automatycznie, chyba że anulujesz 24h wcześniej. Zarządzaj w App Store / Google Play.",
+    "terms": "Regulamin",
+    "privacy": "Prywatność",
+    "restore": "Przywróć",
+    "mostUsers": "Większość wybiera roczny · ",
+    "guarantee": "7-dniowa gwarancja zwrotu",
+    "processing": "Przetwarzanie...",
+    "features": {
+      "scans": "Nielimitowane skany i przepisywanie AI",
+      "match": "Pełne dopasowanie + wszystkie słowa kluczowe",
+      "letters": "Nielimitowane listy (3 style)",
+      "coach": "Nielimitowany MatchCV Coach",
+      "priority": "Priorytetowe AI — szybsze odpowiedzi",
+      "cancel": "Anuluj kiedy chcesz · Bez reklam"
+    },
+    "plans": {
+      "bestValue": "NAJLEPSZA OFERTA",
+      "save50": "Oszczędź 50%",
+      "perMonth": "$2,50/mies.",
+      "monthlyPeriod": "/ mies.",
+      "yearlyPeriod": "/ rok",
+      "lifetimePeriod": "Jednorazowo",
+      "lifetimeSavings": "Zapłać raz, korzystaj zawsze"
+    },
+    "sources": {
+      "analysis": { "title": "Nielimitowane skany CV", "subtitle": "Wykorzystałeś darmowy skan. Premium = nielimitowany feedback AI i 90%+ szybciej.", "cta": "Odblokuj skany — od $2,50/mies." },
+      "match": { "title": "Dopasuj każdą ofertę", "subtitle": "Wykorzystałeś darmowe dopasowanie. Premium pokazuje wszystkie słowa kluczowe.", "cta": "Odblokuj dopasowanie — od $2,50/mies." },
+      "coverLetter": { "title": "Nielimitowane listy", "subtitle": "Wyróżnij się listami Formal, Friendly i Confident — bez limitu.", "cta": "Odblokuj listy — od $2,50/mies." },
+      "chat": { "title": "Nielimitowany MatchCV Coach", "subtitle": "Limit dzienny wyczerpany. Premium = nielimitowane rozmowy, pensja i CV.", "cta": "Odblokuj Coach — od $2,50/mies." },
+      "improve": { "title": "Podnieś CV do 90%+", "subtitle": "AI Premium przepisuje słabe sekcje i dodaje słowa kluczowe ATS.", "cta": "Ulepsz CV z Premium" },
+      "keywords": { "title": "Zobacz wszystkie brakujące słowa", "subtitle": "Rekruterzy filtrują po keywords. Premium pokazuje każdą lukę.", "cta": "Odblokuj wszystkie słowa" },
+      "metrics": { "title": "Pełna analiza CV", "subtitle": "Zobacz 5 metryk ATS i krok po kroku poprawki.", "cta": "Odblokuj pełną analizę" },
+      "home": { "title": "Zdobądź pracę 3× szybciej", "subtitle": "Premium: skany, słowa kluczowe, listy i coach — od $2,50/mies.", "cta": "Premium — Oszczędź 50%" },
+      "profile": { "title": "Przejdź na Premium", "subtitle": "Nielimitowane narzędzia AI. Anuluj kiedy chcesz.", "cta": "Zobacz plany — od $2,50/mies." }
+    }
+  },
+  "subscription": {
+    "lifetimeCta": "Lifetime — {{price}}",
+    "annualCta": "Premium — {{price}}",
+    "monthlyCta": "Premium — {{price}}{{period}}"
+  },
+  "chat": {
+    "title": "MatchCV Coach",
+    "onDevice": "📱 AI na urządzeniu",
+    "premiumUnlimited": "☁️ Premium · Nielimitowany",
+    "messagesToday": "☁️ {{remaining}}/{{limit}} wiadomości dziś",
+    "welcome": "Zadawaj pytania o karierę. Pobierz SmolLM2 (~256 MB) offline lub użyj chmury.",
+    "suggestions": "Sugestie",
+    "prompt1": "Ulepsz moje podsumowanie CV",
+    "prompt2": "Przygotuj mnie do rozmowy",
+    "prompt3": "Jakie umiejętności dodać?",
+    "placeholder": "Wpisz wiadomość...",
+    "aiUnavailable": "AI niedostępne",
+    "localModel": "Model lokalny"
+  },
+  "analysis": {
+    "title": "Wynik analizy",
+    "noAnalysis": "Brak analizy",
+    "noAnalysisMessage": "Najpierw prześlij i przeanalizuj CV.",
+    "overallScore": "Wynik ogólny",
+    "premiumHint": "Użytkownicy Premium zwykle osiągają 90%+ po przepisaniu AI",
+    "breakdown": "Szczegółowy podział",
+    "improveResume": "Ulepsz CV",
+    "improvePremium": "Ulepsz z Premium",
+    "comingSoon": "Wkrótce",
+    "comingSoonSub": "Przepisywanie CV AI w następnej aktualizacji.",
+    "footerHint": "Przepisywanie AI · Słowa ATS · Nielimitowane skany"
+  },
+  "matchJob": {
+    "title": "Dopasuj ofertę",
+    "jobDescription": "Opis stanowiska",
+    "placeholder": "Wklej pełny opis stanowiska tutaj...",
+    "analyze": "Analizuj dopasowanie",
+    "tooShort": "Za krótkie",
+    "tooShortSub": "Wklej pełny opis (min. 20 znaków).",
+    "aiError": "Błąd AI",
+    "freeMatchLeft": "{{count}} darmowe dopasowanie",
+    "freeMatchUsed": "Darmowe wykorzystane — upgrade na nielimitowany",
+    "missingKeywords": "Brakujące słowa kluczowe",
+    "generateLetter": "Generuj list"
+  },
+  "upload": {
+    "title": "Prześlij CV",
+    "noFile": "Brak pliku",
+    "noFileSub": "Najpierw wybierz plik CV.",
+    "dropHint": "Dotknij, aby wybrać PDF lub DOCX",
+    "dropSub": "Maks. 10 MB · PDF, DOCX, TXT",
+    "analyze": "Analizuj CV",
+    "freeScanLeft": "{{count}} darmowy skan",
+    "freeScanUsed": "Darmowy wykorzystany — upgrade na nielimitowany"
+  }
+}

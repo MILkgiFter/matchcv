@@ -1,0 +1,183 @@
+{
+  "common": {
+    "skip": "Überspringen",
+    "seeAll": "Alle anzeigen",
+    "unlock": "Freischalten",
+    "error": "Fehler",
+    "ok": "OK",
+    "premium": "Premium",
+    "version": "Version {{version}}",
+    "matchPercent": "{{percent}}% Übereinstimmung",
+    "moreLocked": "+{{count}} Metriken gesperrt",
+    "keywordsHidden": "+{{count}} Keywords ausgeblendet"
+  },
+  "tabs": {
+    "home": "Start",
+    "jobs": "Jobs",
+    "chat": "AI Chat",
+    "profile": "Profil"
+  },
+  "home": {
+    "tagline": "Passe deinen Lebenslauf an jeden Job an",
+    "boostScore": "Steigere von {{score}}% auf 90%+",
+    "unlockTools": "Unbegrenzte KI-Tools freischalten",
+    "bannerSubtitle": "Unbegrenzte Scans, Keywords, Anschreiben & MatchCV Coach — ab $2,50/Mo.",
+    "resumeScore": "Lebenslauf-Score",
+    "noResumeTitle": "Noch kein Lebenslauf analysiert",
+    "noResumeMessage": "Lade deinen Lebenslauf als PDF oder DOCX hoch. KI prüft ATS-Kompatibilität.",
+    "uploadResume": "Lebenslauf hochladen",
+    "quickActions": "Schnellaktionen",
+    "matchJob": "Job-Match",
+    "coverLetter": "Anschreiben",
+    "matchedJobs": "Gematchte Jobs"
+  },
+  "profile": {
+    "yourProfile": "Dein Profil",
+    "premiumMember": "Premium-Mitglied",
+    "freePlan": "Kostenloser Plan",
+    "upgradeTitle": "Premium upgraden",
+    "upgradeSub": "Ab $2,50/Mo. · Jederzeit kündbar",
+    "freeUsage": "Nutzung kostenloser Plan",
+    "scans": "Scans: {{used}}/{{limit}}",
+    "matches": "Matches: {{used}}/{{limit}}",
+    "letters": "Anschreiben: {{used}}/{{limit}}",
+    "chatToday": "Chat heute: {{used}}/{{limit}}",
+    "upgradeUnlimited": "Unbegrenzt upgraden →",
+    "jobsMatched": "Gematchte Jobs",
+    "coverLetters": "Anschreiben",
+    "myResume": "Mein Lebenslauf",
+    "analysisResult": "Analyseergebnis",
+    "localAi": "Lokales KI-Modell",
+    "privacy": "Datenschutz",
+    "terms": "Nutzungsbedingungen",
+    "language": "Sprache",
+    "languageSub": "App & KI-Antworten"
+  },
+  "languages": {
+    "en": "English",
+    "pt-BR": "Português (Brasil)",
+    "es": "Español",
+    "pl": "Polski",
+    "de": "Deutsch",
+    "fr": "Français",
+    "tr": "Türkçe"
+  },
+  "onboarding": {
+    "premiumLink": "Premium-Pläne — ab $2,50/Mo.",
+    "steps": {
+      "0": { "title": "Lebenslauf hochladen", "subtitle": "Importiere PDF, DOCX oder TXT zum Start." },
+      "1": { "title": "KI analysiert deinen Lebenslauf", "subtitle": "Wir prüfen ATS, Keywords und Formatierung." },
+      "2": { "title": "Traumjob matchen", "subtitle": "Stellenbeschreibung einfügen und Übereinstimmung sehen." },
+      "3": { "title": "Anschreiben generieren", "subtitle": "Personalisierte Anschreiben für jede Bewerbung." },
+      "4": { "title": "Traumjob finden", "subtitle": "Schneller zu Vorstellungsgesprächen mit KI-Tools." }
+    }
+  },
+  "premium": {
+    "title": "Premium",
+    "activeTitle": "Du bist Premium!",
+    "activeSub": "Alles freigeschaltet. Viel Erfolg bei der Jobsuche!",
+    "backToApp": "Zurück zur App",
+    "socialProof": "Vertraut von 12.000+ Jobsuchenden",
+    "limitedBadge": "Kostenloser Plan limitiert — jetzt upgraden",
+    "scoreNow": "Dein Score jetzt",
+    "withPremium": "Mit Premium",
+    "welcome": "Willkommen bei Premium!",
+    "welcomeSub": "Alle Funktionen freigeschaltet.",
+    "purchaseFailed": "Kauf fehlgeschlagen",
+    "restored": "Wiederhergestellt",
+    "restoredSub": "Dein Premium-Abo ist aktiv.",
+    "noPurchases": "Keine Käufe",
+    "noPurchasesSub": "Kein aktives Abo gefunden.",
+    "restoreFailed": "Wiederherstellung fehlgeschlagen",
+    "legal": "Abo verlängert sich automatisch, sofern nicht 24h vorher gekündigt. Verwalten in App Store / Google Play.",
+    "terms": "AGB",
+    "privacy": "Datenschutz",
+    "restore": "Wiederherstellen",
+    "mostUsers": "Die meisten wählen Jährlich · ",
+    "guarantee": "7-Tage-Geld-zurück",
+    "processing": "Wird verarbeitet...",
+    "features": {
+      "scans": "Unbegrenzte Scans & KI-Umschreibung",
+      "match": "Voller Job-Match + alle Keywords",
+      "letters": "Unbegrenzte Anschreiben (3 Töne)",
+      "coach": "Unbegrenzter MatchCV Coach",
+      "priority": "Prioritäts-KI — schnellere Antworten",
+      "cancel": "Jederzeit kündbar · Keine Werbung"
+    },
+    "plans": {
+      "bestValue": "BESTER WERT",
+      "save50": "50% sparen",
+      "perMonth": "$2,50/Mo.",
+      "monthlyPeriod": "/ Monat",
+      "yearlyPeriod": "/ Jahr",
+      "lifetimePeriod": "Einmalig",
+      "lifetimeSavings": "Einmal zahlen, für immer nutzen"
+    },
+    "sources": {
+      "analysis": { "title": "Unbegrenzte Lebenslauf-Scans", "subtitle": "Gratis-Scan verbraucht. Premium = unbegrenztes KI-Feedback und 90%+ schneller.", "cta": "Scans freischalten — ab $2,50/Mo." },
+      "match": { "title": "Jeden Job matchen", "subtitle": "Gratis-Match verbraucht. Premium zeigt alle Recruiter-Keywords.", "cta": "Job-Match freischalten — ab $2,50/Mo." },
+      "coverLetter": { "title": "Unbegrenzte Anschreiben", "subtitle": "Formal, Freundlich & Selbstbewusst — unbegrenzt.", "cta": "Anschreiben freischalten — ab $2,50/Mo." },
+      "chat": { "title": "Unbegrenzter MatchCV Coach", "subtitle": "Tageslimit erreicht. Premium = unbegrenzte Interview-, Gehalts- & CV-Hilfe.", "cta": "Coach freischalten — ab $2,50/Mo." },
+      "improve": { "title": "Lebenslauf auf 90%+ steigern", "subtitle": "Premium-KI schreibt schwache Abschnitte um und fügt ATS-Keywords hinzu.", "cta": "Lebenslauf mit Premium verbessern" },
+      "keywords": { "title": "Alle fehlenden Keywords sehen", "subtitle": "Recruiter filtern nach Keywords. Premium zeigt jede Lücke.", "cta": "Alle Keywords freischalten" },
+      "metrics": { "title": "Vollständige Analyse", "subtitle": "Alle 5 ATS-Metriken und Schritt-für-Schritt-Fixes.", "cta": "Volle Analyse freischalten" },
+      "home": { "title": "3× schneller zum Traumjob", "subtitle": "Premium: Scans, Keywords, Anschreiben & Coach — ab $2,50/Mo.", "cta": "Premium — 50% sparen" },
+      "profile": { "title": "Premium upgraden", "subtitle": "Unbegrenzte KI-Tools. Jederzeit kündbar.", "cta": "Pläne ansehen — ab $2,50/Mo." }
+    }
+  },
+  "subscription": {
+    "lifetimeCta": "Lifetime — {{price}}",
+    "annualCta": "Premium — {{price}}",
+    "monthlyCta": "Premium — {{price}}{{period}}"
+  },
+  "chat": {
+    "title": "MatchCV Coach",
+    "onDevice": "📱 KI auf dem Gerät",
+    "premiumUnlimited": "☁️ Premium · Unbegrenzt",
+    "messagesToday": "☁️ {{remaining}}/{{limit}} Nachrichten heute",
+    "welcome": "Stelle Karrierefragen hier. Lade SmolLM2 (~256 MB) für Offline-Chat oder nutze Cloud-KI.",
+    "suggestions": "Vorschläge",
+    "prompt1": "Verbessere meine Zusammenfassung",
+    "prompt2": "Bereite mich auf ein Interview vor",
+    "prompt3": "Welche Skills soll ich hinzufügen?",
+    "placeholder": "Nachricht eingeben...",
+    "aiUnavailable": "KI nicht verfügbar",
+    "localModel": "Lokales Modell"
+  },
+  "analysis": {
+    "title": "Analyseergebnis",
+    "noAnalysis": "Noch keine Analyse",
+    "noAnalysisMessage": "Lade zuerst deinen Lebenslauf hoch und analysiere ihn.",
+    "overallScore": "Gesamtscore",
+    "premiumHint": "Premium-Nutzer erreichen oft 90%+ nach KI-Umschreibung",
+    "breakdown": "Detaillierte Aufschlüsselung",
+    "improveResume": "Lebenslauf verbessern",
+    "improvePremium": "Mit Premium verbessern",
+    "comingSoon": "Demnächst",
+    "comingSoonSub": "KI-Umschreibung kommt im nächsten Update.",
+    "footerHint": "KI-Umschreibung · ATS-Keywords · Unbegrenzte Scans"
+  },
+  "matchJob": {
+    "title": "Job-Match",
+    "jobDescription": "Stellenbeschreibung",
+    "placeholder": "Vollständige Stellenbeschreibung hier einfügen...",
+    "analyze": "Match analysieren",
+    "tooShort": "Zu kurz",
+    "tooShortSub": "Vollständige Beschreibung einfügen (mind. 20 Zeichen).",
+    "aiError": "KI-Fehler",
+    "freeMatchLeft": "{{count}} Gratis-Match übrig",
+    "freeMatchUsed": "Gratis-Match verbraucht — unbegrenzt upgraden",
+    "missingKeywords": "Fehlende Keywords",
+    "generateLetter": "Anschreiben generieren"
+  },
+  "upload": {
+    "title": "Lebenslauf hochladen",
+    "noFile": "Keine Datei",
+    "noFileSub": "Bitte zuerst eine Datei auswählen.",
+    "dropHint": "Tippen für PDF oder DOCX",
+    "dropSub": "Max. 10 MB · PDF, DOCX, TXT",
+    "analyze": "Lebenslauf analysieren",
+    "freeScanLeft": "{{count}} Gratis-Scan übrig",
+    "freeScanUsed": "Gratis-Scan verbraucht — unbegrenzt upgraden"
+  }
+}

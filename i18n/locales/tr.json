@@ -1,0 +1,183 @@
+{
+  "common": {
+    "skip": "Atla",
+    "seeAll": "Tümünü gör",
+    "unlock": "Aç",
+    "error": "Hata",
+    "ok": "Tamam",
+    "premium": "Premium",
+    "version": "Sürüm {{version}}",
+    "matchPercent": "%{{percent}} eşleşme",
+    "moreLocked": "+{{count}} metrik kilitli",
+    "keywordsHidden": "+{{count}} anahtar kelime gizli"
+  },
+  "tabs": {
+    "home": "Ana Sayfa",
+    "jobs": "İşler",
+    "chat": "AI Chat",
+    "profile": "Profil"
+  },
+  "home": {
+    "tagline": "CV'nizi her işe uyarlayın",
+    "boostScore": "{{score}}%'den 90%+'a yükseltin",
+    "unlockTools": "Sınırsız AI araçlarını açın",
+    "bannerSubtitle": "Sınırsız tarama, anahtar kelimeler, mektuplar & MatchCV Coach — $2,50/ay'dan",
+    "resumeScore": "CV Puanı",
+    "noResumeTitle": "Henüz CV analizi yok",
+    "noResumeMessage": "PDF veya DOCX olarak yükleyin. AI ATS uyumluluğunu puanlar.",
+    "uploadResume": "CV Yükle",
+    "quickActions": "Hızlı İşlemler",
+    "matchJob": "İş Eşleştir",
+    "coverLetter": "Ön Yazı",
+    "matchedJobs": "Eşleşen İşler"
+  },
+  "profile": {
+    "yourProfile": "Profiliniz",
+    "premiumMember": "Premium üye",
+    "freePlan": "Ücretsiz plan",
+    "upgradeTitle": "Premium'a yükselt",
+    "upgradeSub": "$2,50/ay'dan · İstediğiniz zaman iptal",
+    "freeUsage": "Ücretsiz plan kullanımı",
+    "scans": "CV taraması: {{used}}/{{limit}}",
+    "matches": "Eşleşme: {{used}}/{{limit}}",
+    "letters": "Mektup: {{used}}/{{limit}}",
+    "chatToday": "Bugünkü chat: {{used}}/{{limit}}",
+    "upgradeUnlimited": "Sınırsıza yükselt →",
+    "jobsMatched": "Eşleşen İşler",
+    "coverLetters": "Ön Yazılar",
+    "myResume": "CV'm",
+    "analysisResult": "Analiz Sonucu",
+    "localAi": "Yerel AI Modeli",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Şartları",
+    "language": "Dil",
+    "languageSub": "Uygulama ve AI yanıtları"
+  },
+  "languages": {
+    "en": "English",
+    "pt-BR": "Português (Brasil)",
+    "es": "Español",
+    "pl": "Polski",
+    "de": "Deutsch",
+    "fr": "Français",
+    "tr": "Türkçe"
+  },
+  "onboarding": {
+    "premiumLink": "Premium planlar — $2,50/ay'dan",
+    "steps": {
+      "0": { "title": "CV'nizi yükleyin", "subtitle": "PDF, DOCX veya TXT ile başlayın." },
+      "1": { "title": "AI CV'nizi analiz eder", "subtitle": "ATS, anahtar kelimeler ve biçimlendirme kontrol edilir." },
+      "2": { "title": "Hayalinizdeki işe eşleşin", "subtitle": "İş tanımını yapıştırın, ne kadar uyduğunu görün." },
+      "3": { "title": "Ön yazı oluşturun", "subtitle": "Her başvuru için kişiselleştirilmiş mektuplar." },
+      "4": { "title": "Hayalinizdeki işi bulun", "subtitle": "AI kariyer araçlarıyla daha hızlı mülakata gidin." }
+    }
+  },
+  "premium": {
+    "title": "Premium",
+    "activeTitle": "Premium'sunuz!",
+    "activeSub": "Tüm özellikler açık. İş aramanızda başarılar!",
+    "backToApp": "Uygulamaya dön",
+    "socialProof": "12.000+ iş arayanın güvendiği",
+    "limitedBadge": "Ücretsiz plan sınırlı — yükseltin",
+    "scoreNow": "Mevcut puanınız",
+    "withPremium": "Premium ile",
+    "welcome": "Premium'a hoş geldiniz!",
+    "welcomeSub": "Tüm özellikler açıldı.",
+    "purchaseFailed": "Satın alma başarısız",
+    "restored": "Geri yüklendi",
+    "restoredSub": "Premium aboneliğiniz aktif.",
+    "noPurchases": "Satın alma yok",
+    "noPurchasesSub": "Aktif abonelik bulunamadı.",
+    "restoreFailed": "Geri yükleme başarısız",
+    "legal": "Abonelik, dönem bitiminden 24 saat önce iptal edilmezse otomatik yenilenir. App Store / Google Play'den yönetin.",
+    "terms": "Şartlar",
+    "privacy": "Gizlilik",
+    "restore": "Geri yükle",
+    "mostUsers": "Çoğu kullanıcı Yıllık seçiyor · ",
+    "guarantee": "7 gün para iade garantisi",
+    "processing": "İşleniyor...",
+    "features": {
+      "scans": "Sınırsız CV tarama ve AI yeniden yazım",
+      "match": "Tam iş eşleşmesi + tüm anahtar kelimeler",
+      "letters": "Sınırsız ön yazı (3 ton)",
+      "coach": "Sınırsız MatchCV Coach",
+      "priority": "Öncelikli AI — daha hızlı yanıtlar",
+      "cancel": "İstediğiniz zaman iptal · Reklamsız"
+    },
+    "plans": {
+      "bestValue": "EN İYİ DEĞER",
+      "save50": "%50 tasarruf",
+      "perMonth": "$2,50/ay",
+      "monthlyPeriod": "/ ay",
+      "yearlyPeriod": "/ yıl",
+      "lifetimePeriod": "Tek seferlik",
+      "lifetimeSavings": "Bir kez öde, sonsuza kadar kullan"
+    },
+    "sources": {
+      "analysis": { "title": "Sınırsız CV tarama", "subtitle": "Ücretsiz taramanızı kullandınız. Premium = sınırsız AI geri bildirimi ve 90%+ daha hızlı.", "cta": "Taramaları aç — $2,50/ay'dan" },
+      "match": { "title": "Her işe eşleşin", "subtitle": "Ücretsiz eşleşmeyi kullandınız. Premium tüm recruiter anahtar kelimelerini gösterir.", "cta": "Eşleşmeyi aç — $2,50/ay'dan" },
+      "coverLetter": { "title": "Sınırsız ön yazı", "subtitle": "Resmi, Samimi ve Özgüvenli tonlar — sınırsız.", "cta": "Mektupları aç — $2,50/ay'dan" },
+      "chat": { "title": "Sınırsız MatchCV Coach", "subtitle": "Günlük limit doldu. Premium = sınırsız mülakat, maaş ve CV desteği.", "cta": "Coach'u aç — $2,50/ay'dan" },
+      "improve": { "title": "CV'nizi 90%+'a yükseltin", "subtitle": "Premium AI zayıf bölümleri yeniden yazar ve ATS kelimeleri ekler.", "cta": "CV'yi Premium ile geliştir" },
+      "keywords": { "title": "Tüm eksik kelimeleri görün", "subtitle": "Recruiter'lar anahtar kelimeyle filtreler. Premium her boşluğu gösterir.", "cta": "Tüm kelimeleri aç" },
+      "metrics": { "title": "Tam CV analizi", "subtitle": "5 ATS metriği ve adım adım düzeltmeler.", "cta": "Tam analizi aç" },
+      "home": { "title": "3× daha hızlı iş bulun", "subtitle": "Premium: tarama, kelimeler, mektuplar ve coach — $2,50/ay'dan.", "cta": "Premium — %50 tasarruf" },
+      "profile": { "title": "Premium'a yükselt", "subtitle": "Sınırsız AI araçları. İstediğiniz zaman iptal.", "cta": "Planları gör — $2,50/ay'dan" }
+    }
+  },
+  "subscription": {
+    "lifetimeCta": "Lifetime — {{price}}",
+    "annualCta": "Premium — {{price}}",
+    "monthlyCta": "Premium — {{price}}{{period}}"
+  },
+  "chat": {
+    "title": "MatchCV Coach",
+    "onDevice": "📱 Cihazda AI",
+    "premiumUnlimited": "☁️ Premium · Sınırsız",
+    "messagesToday": "☁️ Bugün {{remaining}}/{{limit}} mesaj",
+    "welcome": "Kariyer sorularınızı sorun. Çevrimdışı chat için SmolLM2 (~256 MB) indirin veya bulut AI kullanın.",
+    "suggestions": "Öneriler",
+    "prompt1": "Özetimi geliştir",
+    "prompt2": "Mülakata hazırla",
+    "prompt3": "Hangi becerileri eklemeliyim?",
+    "placeholder": "Mesaj yazın...",
+    "aiUnavailable": "AI kullanılamıyor",
+    "localModel": "Yerel model"
+  },
+  "analysis": {
+    "title": "Analiz Sonucu",
+    "noAnalysis": "Henüz analiz yok",
+    "noAnalysisMessage": "Önce CV'nizi yükleyip analiz edin.",
+    "overallScore": "Genel Puan",
+    "premiumHint": "Premium kullanıcılar AI yeniden yazımından sonra genelde 90%+'a ulaşır",
+    "breakdown": "Detaylı Dağılım",
+    "improveResume": "CV'yi Geliştir",
+    "improvePremium": "Premium ile Geliştir",
+    "comingSoon": "Yakında",
+    "comingSoonSub": "AI CV yeniden yazımı sonraki güncellemede.",
+    "footerHint": "AI yeniden yazım · ATS kelimeleri · Sınırsız tarama"
+  },
+  "matchJob": {
+    "title": "İş Eşleştir",
+    "jobDescription": "İş Tanımı",
+    "placeholder": "Tam iş tanımını buraya yapıştırın...",
+    "analyze": "Eşleşmeyi Analiz Et",
+    "tooShort": "Çok kısa",
+    "tooShortSub": "Tam bir iş tanımı yapıştırın (en az 20 karakter).",
+    "aiError": "AI Hatası",
+    "freeMatchLeft": "{{count}} ücretsiz eşleşme kaldı",
+    "freeMatchUsed": "Ücretsiz eşleşme kullanıldı — sınırsıza yükseltin",
+    "missingKeywords": "Eksik Anahtar Kelimeler",
+    "generateLetter": "Ön Yazı Oluştur"
+  },
+  "upload": {
+    "title": "CV Yükle",
+    "noFile": "Dosya yok",
+    "noFileSub": "Önce bir CV dosyası seçin.",
+    "dropHint": "PDF veya DOCX seçmek için dokunun",
+    "dropSub": "Maks 10 MB · PDF, DOCX, TXT",
+    "analyze": "CV'yi Analiz Et",
+    "freeScanLeft": "{{count}} ücretsiz tarama kaldı",
+    "freeScanUsed": "Ücretsiz tarama kullanıldı — sınırsıza yükseltin"
+  }
+}

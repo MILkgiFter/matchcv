@@ -1,0 +1,16 @@
+node_modules/
+.expo/
+.git/
+.github/
+backend/
+*.md
+!README.md
+.env
+.env.*
+!.env.example
+google-service-account.json
+scripts/
+store/
+PRODUCTION.md
+PRODUCTION_READY.md
+render.yaml

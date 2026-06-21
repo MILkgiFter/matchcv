@@ -1,0 +1,39 @@
+DIYAR KARIMOV
+Frontend Developer
+Baku, Azerbaijan | diyar.karimov@email.com | +994 50 123 45 67
+LinkedIn: linkedin.com/in/diyarkarimov | GitHub: github.com/diyarkarimov
+
+PROFESSIONAL SUMMARY
+Frontend developer with 4+ years of experience building responsive web applications using React, TypeScript, and modern JavaScript. Strong focus on performance, accessibility, and clean UI. Experienced in collaborating with cross-functional teams in agile environments.
+
+TECHNICAL SKILLS
+Languages: JavaScript, TypeScript, HTML5, CSS3
+Frameworks: React, Next.js, Redux, React Query
+Styling: Tailwind CSS, Styled Components, Sass
+Tools: Git, Webpack, Vite, Figma, Jest, Cypress
+Other: REST APIs, GraphQL basics, CI/CD (GitHub Actions)
+
+WORK EXPERIENCE
+
+Frontend Developer | TechSolutions LLC | Jan 2022 – Present
+• Developed and maintained customer-facing dashboards used by 50,000+ monthly active users
+• Migrated legacy jQuery modules to React + TypeScript, reducing bundle size by 35%
+• Implemented reusable component library shared across 3 product teams
+• Improved Core Web Vitals (LCP) from 3.2s to 1.4s through code splitting and lazy loading
+• Mentored 2 junior developers on React best practices and code review
+
+Junior Frontend Developer | WebStudio Agency | Jun 2020 – Dec 2021
+• Built landing pages and e-commerce interfaces for 15+ clients
+• Integrated payment gateways and CRM APIs (Stripe, HubSpot)
+• Wrote unit tests with Jest, achieving 80% coverage on critical modules
+
+EDUCATION
+Bachelor of Computer Science | Azerbaijan State University | 2016 – 2020
+GPA: 3.7/4.0
+
+PROJECTS
+Career Tracker App — React Native mobile app for job search and resume analysis
+Portfolio Website — Next.js personal site with blog and dark mode
+
+LANGUAGES
+Azerbaijani — Native | English — Professional (B2) | Russian — Conversational

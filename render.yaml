@@ -1,0 +1,30 @@
+# Render Blueprint — MatchCV backend
+# Dashboard: New → Blueprint → connect repo → apply this file
+# Set secrets in Render dashboard: API_KEY, GROQ_API_KEY
+
+services:
+  - type: web
+    name: matchcv-api
+    runtime: node
+    rootDir: backend
+    plan: free
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    healthCheckPath: /health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 3001
+      - key: AI_PROVIDER
+        value: groq
+      - key: AI_MODEL
+        value: llama-3.3-70b-versatile
+      - key: CORS_ORIGIN
+        value: "*"
+      - key: RATE_LIMIT_MAX
+        value: "100"
+      - key: API_KEY
+        sync: false
+      - key: GROQ_API_KEY
+        sync: false
