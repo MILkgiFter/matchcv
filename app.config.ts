@@ -65,9 +65,9 @@ export default ({ config }: ConfigContext): ExpoConfig => {
       {
         android: {
           minSdkVersion: 24,
-          targetSdkVersion: 34,
-          compileSdkVersion: 34,
-          buildToolsVersion: '34.0.0',
+          targetSdkVersion: 35,
+          compileSdkVersion: 35,
+          buildToolsVersion: '35.0.0',
           ndkVersion: '26.1.10909125',
           kotlinVersion: '1.9.25',
           usesCleartextTraffic: isLocalApi,
