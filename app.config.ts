@@ -3,7 +3,12 @@ import { ExpoConfig, ConfigContext } from 'expo/config';
 const apiUrl = process.env.EXPO_PUBLIC_API_URL ?? 'http://localhost:3001';
 const isLocalApi = apiUrl.includes('localhost') || apiUrl.includes('127.0.0.1');
 
-export default ({ config }: ConfigContext): ExpoConfig => ({  ...config,
+export default ({ config }: ConfigContext): ExpoConfig => {
+  const baseExtra = (config.extra ?? {}) as Record<string, unknown>;
+  const baseEas = (baseExtra.eas ?? {}) as { projectId?: string };
+
+  return {
+  ...config,
   name: 'MatchCV',
   slug: 'matchcv',
   version: '1.0.0',
@@ -39,7 +44,6 @@ export default ({ config }: ConfigContext): ExpoConfig => ({  ...config,
   },
   android: {
     package: 'com.matchcv.app',
-    versionCode: 1,
     adaptiveIcon: {
       foregroundImage: './assets/adaptive-icon.png',
       backgroundColor: '#FF7A33',
@@ -61,8 +65,11 @@ export default ({ config }: ConfigContext): ExpoConfig => ({  ...config,
       {
         android: {
           minSdkVersion: 24,
-          targetSdkVersion: 35,
-          compileSdkVersion: 35,
+          targetSdkVersion: 34,
+          compileSdkVersion: 34,
+          buildToolsVersion: '34.0.0',
+          ndkVersion: '26.1.10909125',
+          kotlinVersion: '1.9.25',
           usesCleartextTraffic: isLocalApi,
         },
         ios: {
@@ -82,6 +89,7 @@ export default ({ config }: ConfigContext): ExpoConfig => ({  ...config,
       }
     : {}),
   extra: {
+    ...baseExtra,
     apiUrl,
     apiKey: process.env.EXPO_PUBLIC_API_KEY ?? '',
     privacyUrl: process.env.EXPO_PUBLIC_PRIVACY_URL ?? 'https://your-domain.com/privacy',
@@ -90,8 +98,13 @@ export default ({ config }: ConfigContext): ExpoConfig => ({  ...config,
     revenueCatAndroidApiKey: process.env.EXPO_PUBLIC_REVENUECAT_API_KEY_ANDROID ?? '',
     revenueCatIosApiKey: process.env.EXPO_PUBLIC_REVENUECAT_API_KEY_IOS ?? '',
     eas: {
-      projectId: process.env.EAS_PROJECT_ID,
+      ...baseEas,
+      projectId:
+        process.env.EAS_PROJECT_ID ??
+        baseEas.projectId ??
+        '3688a755-0767-4ff7-b0d0-90a9ff691531',
     },
   },
-  owner: process.env.EXPO_OWNER,
-});
+  owner: process.env.EXPO_OWNER ?? config.owner ?? 'drochila1010',
+  };
+};

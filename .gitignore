@@ -11,6 +11,8 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+android/
+ios/
 .DS_Store
 *.pem
 google-service-account.json
@@ -20,3 +22,7 @@ assets/generated/*
 !assets/generated/.gitkeep
 tools/image-mcp/node_modules/
 tools/image-mcp/.env
+RELEASE_STATUS.md
+eas-build-log.txt
+eas-gradlew-log.txt
+build-log.txt

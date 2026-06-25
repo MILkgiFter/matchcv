@@ -5,12 +5,14 @@ node_modules/
 backend/
 *.md
 !README.md
-.env
-.env.*
-!.env.example
+.env.local
+backend/.env
 google-service-account.json
 scripts/
 store/
 PRODUCTION.md
 PRODUCTION_READY.md
 render.yaml
+tools/
+android/
+ios/
